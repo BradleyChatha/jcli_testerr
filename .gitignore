@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/jcli_testerr
+jcli_testerr.so
+jcli_testerr.dylib
+jcli_testerr.dll
+jcli_testerr.a
+jcli_testerr.lib
+jcli_testerr-test-*
+*.exe
+*.o
+*.obj
+*.lst
+example.json*
