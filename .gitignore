@@ -14,3 +14,4 @@ jcli_testerr-test-*
 *.obj
 *.lst
 example.json*
+dub.selections.json
